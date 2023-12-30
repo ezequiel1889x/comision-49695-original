@@ -1,0 +1,40 @@
+/* header */
+#primera-li:hover {
+       color: rgba(175, 80, 56, 0.719);
+       border-bottom: 2px solid black;
+}
+
+#segunda-li:hover {
+        color: rgba(175, 80, 56, 0.719);
+        border-bottom: 2px solid black;
+}
+
+#tercera-li:hover {
+        color: rgba(175, 80, 56, 0.719);
+        border-bottom: 2px solid black;
+}
+.imagen {
+    width: 50px;
+}
+
+ 
+/* main */
+.footer {
+    height: 100%;
+}
+
+
+.titulo{
+    background-color: rgba(175, 80, 56, 0.562);
+    border-radius: 45px;
+}
+
+
+
+/* footer */
+
+
+.footer-imagen{
+    width: 50px;
+}
+
